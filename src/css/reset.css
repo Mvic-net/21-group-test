@@ -33,3 +33,12 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+section{
+  width: 200px;
+  height: 100px;
+
+  border: 2px solid lightgreen;
+
+  margin-bottom: 10px;
+}
