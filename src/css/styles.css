@@ -5,9 +5,17 @@
   |============================
 */
 @import url('./reset.css');
-@import url('./vite-promo.css');
-@import url('./header.css');
+
 @import url('./vic.css');
+@import url('./daria.css');
+@import url('./egor-s.css');
+@import url('./george.css');
+@import url('./natalia.css');
+@import url('./olya.css');
+@import url('./svitlana.css');
+@import url('./vit.css');
+@import url('./yehor-m.css');
+@import url('./yura.css');
 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
